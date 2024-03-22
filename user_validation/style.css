@@ -1,0 +1,17 @@
+body {
+    background: green;
+    color: #ffffff;
+}
+
+.centered {
+    max-width: 700px;
+    padding: 6em 3em;
+    background: #ffffff;
+    color: #606060;
+    transform: translate(0%, 30%);
+}
+
+form {
+    border: 1px solid black;
+    padding: 3em 0;
+}
